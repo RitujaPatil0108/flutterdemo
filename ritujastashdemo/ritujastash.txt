@@ -1,0 +1,3 @@
+Hi, 
+This is Rituja
+This is demo of Git Stash.
